@@ -1,0 +1,35 @@
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    text-decoration: line-through;
+}
+h2{
+    text-align: center;
+    color: midnightblue;
+    text-shadow: 1px 1px 1px midnightblue;
+}
+.red{
+    color: red;
+}
+.bold{
+    font-weight: 700;
+    text-align: center;
+}
+.italic_green_right{
+    font-style: italic ;
+    color: rgb(31, 165, 31);
+    text-align: right;
+}
+p{
+    font-size: 18pt;
+}
+.big{
+    font-size: 30pt;
+    font-style: italic;
+}
+a{
+    color: rgb(172, 55, 137);
+}
